@@ -1,0 +1,457 @@
+﻿0 HEAD
+1 SOUR GEDKeeper
+2 VERS 44
+1 DEST GEDKeeper
+1 CHAR UTF-8
+1 LANG English
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 FILE main.ged
+2 _REV 2
+1 DATE 20 AUG 2022
+2 TIME 19:35:42.4
+0 @I1@ INDI
+1 _UID 361F3FC596F8C740BBE56D2A5E9FA415DB87
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:27:28.8
+1 SEX M
+1 NAME Michael Adam /S Saunders/ M A
+2 LANG English
+2 TYPE birth
+2 SURN Saunders
+2 GIVN Michael Adam
+2 NICK MAS
+2 SPFX S
+2 NSFX M A
+1 FAMC @F1@
+2 PEDI birth
+1 FAMS @F2@
+1 BIRT
+2 DATE 04 MAR 1994
+2 PLAC Arrowe Park Hospital, Arrowe Park Rd, Upton, Birkenhead, Wirral CH49 5PE
+1 _EYES Blue
+1 _HAIR Brown, (Brunette)
+1 NATI British, English
+1 NCHI 0
+1 NMR 0
+1 RELI Agnostic
+1 RESI Childhood Home
+2 PLAC 127 Sunnybank Road, Griffithstown, Pontypool NP4 5LL, UK
+3 _LOC @L4@
+2 ADDR 127 Sunnybank Road, Griffithstown, Pontypool, NP4 5LL
+3 CITY Newport
+3 CTRY Torfaen
+3 POST NP4 5LL
+2 PHON 01495 760772
+1 ASSO @I3@
+2 RELA Sister
+0 @I2@ INDI
+1 _UID 38BFF18862BB1B4EB2D0B13A6867CE8383B0
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:24:48.6
+1 SEX F
+1 NAME Devon-Marie /J Jackson/ DM
+2 SURN Jackson
+2 GIVN Devon-Marie
+2 SPFX J
+2 NSFX DM
+1 FAMC @F3@
+2 PEDI birth
+1 FAMS @F2@
+1 BIRT
+2 DATE 26 APR 1995
+2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
+1 _EYES Green, (Blue)
+1 _HAIR Blond, (Strawberry Blonde)
+1 NATI British, Welsh
+1 RELI Agnostic
+1 NCHI 0
+1 NMR 1
+0 @I3@ INDI
+1 _UID AB1D8BB074EAEB45965AD5E1D2F6782EA5D7
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:27:47.5
+1 SEX F
+1 NAME Stevie Chrystal /S Saunders/ SCS
+2 SURN Saunders
+2 GIVN Stevie Chrystal
+2 NICK Stevie
+2 SPFX S
+2 NSFX SCS
+1 FAMC @F1@
+2 PEDI birth
+1 FAMS @F4@
+1 BIRT
+2 DATE 25 MAR 1990
+2 PLAC Arrowe Park Hospital, Arrowe Park Rd, Upton, Birkenhead, Wirral CH49 5PE
+1 NATI British, English
+1 NCHI 2
+1 NMR 0
+1 RESI Childhood Home
+2 PLAC 127 Sunnybank Road, Griffithstown, Pontypool NP4 5LL, UK
+3 _LOC @L4@
+0 @I4@ INDI
+1 _UID B395EF4C01112345B9712938652D4D1E852B
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:33:20.3
+1 SEX M
+1 NAME Kevin /S Saunders/ K
+2 TYPE married
+2 SURN Saunders
+2 GIVN Kevin
+2 SPFX S
+2 NSFX K
+1 NAME Kevin /J Jones/ K
+2 TYPE birth
+2 SURN Jones
+2 GIVN Kevin
+2 SPFX J
+2 NSFX K
+1 FAMS @F1@
+1 BIRT
+2 DATE 05 MAY 1955
+1 RESI Family Home
+2 PLAC 127 Sunnybank Road, Griffithstown, Pontypool NP4 5LL, UK
+3 _LOC @L4@
+1 NCHI 2
+1 NMR 1
+1 NATI British, Welsh
+0 @I5@ INDI
+1 _UID D50353D1646BEF4D9E0746BB0D6BB89D7AE6
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:28:54.8
+1 SEX F
+1 NAME S Sheran Jane /J Jones/ SJ
+2 SURN Jones
+2 GIVN Sheran Jane
+2 NPFX S
+2 SPFX J
+2 NSFX SJ
+1 FAMS @F1@
+1 BIRT
+2 DATE 29 AUG 1961
+2 PLAC Hereford County Hospital, Stonebow Rd, Hereford HR1 2ER
+1 CHR
+2 DATE ABT 01 JAN 1961
+1 NCHI 2
+1 NMR 2
+1 RESI Family Home
+2 PLAC 127 Sunnybank Road, Griffithstown, Pontypool NP4 5LL, UK
+3 _LOC @L4@
+0 @F1@ FAM
+1 _UID D3FB7B3DF79C88458E16CCA67166BFBA4CFB
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:15:51
+1 HUSB @I4@
+1 WIFE @I5@
+1 _STAT married
+1 CHIL @I3@
+1 CHIL @I1@
+1 MARR
+2 DATE 04 NOV 1999
+2 PLAC Salvation Army Church, 2 Stryd Wesley, Cwmbran NP44 3LY
+0 @F2@ FAM
+1 _UID F52ED7B6C5B85546A4A7C082FCE0DEE5F4DA
+1 CHAN
+2 DATE 10 AUG 2022
+3 TIME 19:21:01.7
+1 HUSB @I1@
+1 WIFE @I2@
+1 _STAT marrnotreg
+1 EVEN
+2 TYPE Anniversary
+2 DATE 26 DEC 2019
+2 PLAC McDonald's, Harlech retail park, Cardiff Rd, Newport NP20 3BA
+0 @I6@ INDI
+1 _UID 9A49615976B8464AA4343C5C5A440AC6394E
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:10:25.7
+1 SEX M
+1 NAME Tyler /S Saunders/ T
+2 SURN Saunders
+2 GIVN Tyler
+2 SPFX S
+2 NSFX T
+1 FAMC @F4@
+2 PEDI birth
+1 BIRT
+2 DATE 02 APR 2014
+2 PLAC Nevill Hall Hospital, Brecon Rd, Abergavenny NP7 7EG
+0 @I7@ INDI
+1 _UID E89107FE81D7F946858F180FFEF14C851094
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:11:46.6
+1 SEX F
+1 NAME Casey /S Saunders/ C
+2 SURN Saunders
+2 GIVN Casey
+2 SPFX S
+2 NSFX C
+1 FAMC @F4@
+2 PEDI birth
+1 BIRT
+2 DATE 04 FEB 2010
+2 PLAC Nevill Hall Hospital, Brecon Rd, Abergavenny NP7 7EG
+0 @F4@ FAM
+1 _UID 33601717B6B60E46AD4A21035D218629C9E8
+1 CHAN
+2 DATE 10 AUG 2022
+3 TIME 19:22:29.6
+1 WIFE @I3@
+1 CHIL @I7@
+1 CHIL @I6@
+0 @I8@ INDI
+1 _UID DF3991899D30D44B9181C361AFB71E643C88
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:00:03.3
+1 SEX M
+1 NAME Caprice /J Jackson/ C
+2 SURN Jackson
+2 GIVN Caprice
+2 SPFX J
+2 NSFX C
+1 FAMC @F3@
+2 PEDI birth
+1 BIRT
+2 DATE 30 OCT 1997
+2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
+1 _EYES Blue
+1 _HAIR Blond, (Mousy-brown)
+1 NATI British, Welsh
+0 @I9@ INDI
+1 _UID 37B8D72B338B824E9BC83CAEA03B558F8BE0
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:00:11.3
+1 SEX M
+1 NAME Lee Robert /J Jackson/ LR
+2 SURN Jackson
+2 GIVN Lee Robert
+2 SPFX J
+2 NSFX LR
+1 FAMC @F3@
+2 PEDI birth
+1 FAMS @F5@
+1 BIRT
+2 DATE 17 APR 1996
+2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
+1 _EYES Brown
+1 _HAIR Blond, (Mousy-brown)
+1 NATI British, Welsh
+1 RELI Agnostic
+0 @I10@ INDI
+1 _UID F3D5A56D83572A458C92BE5504BCE3EDE49E
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:00:18.9
+1 SEX F
+1 NAME Kayla Denise /J Jackson/ KD
+2 SURN Jackson
+2 GIVN Kayla Denise
+2 SPFX J
+2 NSFX KD
+1 FAMC @F3@
+2 PEDI birth
+1 BIRT
+2 DATE 30 JAN 2002
+2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
+1 _EYES Green
+1 _HAIR Blond, (Mousy-brown)
+1 NATI British, Welsh
+1 RELI Agnostic
+0 @I11@ INDI
+1 _UID A9A67673FD4E2145BCF567C1F2FF7D346437
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:30:04.7
+1 SEX M
+1 NAME Christopher Lyndon /J Jackson/ CL
+2 SURN Jackson
+2 GIVN Christopher Lyndon
+2 NICK CJ (Seige)
+2 SPFX J
+2 NSFX CL
+1 FAMS @F3@
+1 BIRT
+2 DATE 28 MAY 1976
+2 PLAC Royal Devon and Exeter Hospital, Barrack Rd, Exeter EX2 5DW
+1 _EYES Green
+1 _HAIR Brown, (Brunette)
+1 NATI British, English
+1 NCHI 4
+1 NMR 1
+1 RELI Agnostic
+1 RESI Family Home
+2 PLAC 24 Blackwood Rd, Pontllanfraith, Blackwood NP12 2BR, UK
+3 _LOC @L5@
+0 @F3@ FAM
+1 _UID EA52A634A42BA54EBD20CD8C389CD5752C04
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 18:10:14.5
+1 HUSB @I11@
+1 WIFE @I12@
+1 _STAT married
+1 CHIL @I2@
+1 CHIL @I9@
+1 CHIL @I8@
+1 CHIL @I10@
+1 MARR
+2 DATE 07 JUL 1995
+2 PLAC The Registry Office, 6 Gold Tops, Newport, NP20 4PF
+2 ADDR
+0 @I12@ INDI
+1 _UID 0BB937D5F5911B45B4834329C17D283DFC28
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:34:00.4
+1 SEX F
+1 NAME Donna Francis /W Ward/ DF
+2 LANG English
+2 TYPE birth
+2 SURN Ward
+2 GIVN Donna Francis
+2 SPFX W
+2 NSFX DF
+1 NAME Donna Francis /J Jackson/ DF
+2 TYPE married
+2 SURN Jackson
+2 GIVN Donna Francis
+2 SPFX J
+2 NSFX DF
+1 FAMS @F3@
+1 BIRT
+2 DATE 19 MAR 1974
+2 PLAC Celtic Manor, Coldra Wood, The Usk Valley, Chepstow Rd, Newport NP18 1HQ
+1 _HAIR Brown, (Brunette)
+1 NATI British, Welsh
+1 NCHI 4
+1 NMR 1
+1 RELI Agnostic
+1 _EYES Brown
+1 RESI Family Home
+2 PLAC 24 Blackwood Rd, Pontllanfraith, Blackwood NP12 2BR, UK
+3 _LOC @L5@
+0 @I13@ INDI
+1 _UID 257C5DB0D043504195178D6AF5E0356D6C98
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 18:48:40.4
+1 SEX F
+1 NAME Amy-Lee /P Poole/ AL
+2 TYPE birth
+2 SURN Poole
+2 GIVN Amy-Lee
+2 SPFX P
+2 NSFX AL
+1 NAME Amy-Lee /J Jackson/ AL
+2 TYPE married
+2 SURN Jackson
+2 GIVN Amy-Lee
+2 SPFX J
+2 NSFX AL
+1 FAMS @F5@
+1 BIRT
+2 DATE 05 AUG 1996
+2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
+1 _EYES Blue
+1 _HAIR Blond, (Blonde)
+1 NATI British, Welsh
+1 NCHI 2
+1 NMR 1
+1 RELI Christianity
+1 CHRA
+2 PLAC Ringland Presbyterian Church of Wales, 5 Beatty Rd, Newport NP19 9GG
+1 ASSO @I9@
+2 RELA Husband
+0 @F5@ FAM
+1 _UID 058FA37BBEA2BA4EB852ED179F9A39DA744F
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 18:53:15.7
+1 HUSB @I9@
+1 WIFE @I13@
+1 _STAT married
+1 CHIL @I14@
+1 CHIL @I15@
+1 MARR
+2 DATE 24 SEP 2016
+2 PLAC Ringland Presbyterian Church of Wales, 5 Beatty Rd, Newport NP19 9GG
+0 @I14@ INDI
+1 _UID D424F242FB1C3842AC5A7C0FB1D37E92E240
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:25:12.5
+1 SEX M
+1 NAME Brandon-Lee Christopher /J Jackson/ BL
+2 SURN Jackson
+2 GIVN Brandon-Lee Christopher
+2 SPFX J
+2 NSFX BL
+1 FAMC @F5@
+2 PEDI birth
+1 BIRT
+2 DATE 19 JUL 2016
+2 PLAC Royal Gwent Hospital, Cardiff Rd, Newport NP20 2UB
+3 _LOC @L3@
+1 _EYES Blue
+1 _HAIR Blond, (Strawberry Blonde)
+1 NATI British, Welsh
+1 CHR
+2 PLAC Ringland Presbyterian Church of Wales, 5 Beatty Rd, Newport NP19 9GG
+0 @L3@ _LOC
+1 _UID F1E9C636BDACB44BBD8DE5D764625842A430
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 18:51:02.4
+1 MAP
+2 LATI 51.579547
+2 LONG -2.998099
+1 NAME Royal Gwent Hospital, Cardiff Rd, Newport NP20 2UB
+0 @I15@ INDI
+1 _UID 867D3EF63EC35A43B208ED99BDF54DF30770
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 18:56:56.3
+1 SEX M
+1 NAME Jake-Lee /Jackson/
+2 SURN Jackson
+2 GIVN Jake-Lee
+1 FAMC @F5@
+2 PEDI birth
+1 BIRT
+2 DATE 13 NOV 2018
+2 PLAC Royal Gwent Hospital, Cardiff Rd, Newport NP20 2UB
+3 _LOC @L3@
+1 _EYES Brown
+1 _HAIR Blond, (Blonde)
+1 NATI British, Welsh
+0 @L4@ _LOC
+1 _UID 7A96706911610E4EBDE773FA3C45ED76ACFC
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:27:15
+1 MAP
+2 LATI 51.690743
+2 LONG -3.028659
+1 NAME 127 Sunnybank Road, Griffithstown, Pontypool NP4 5LL, UK
+0 @L5@ _LOC
+1 _UID 5003CF96AE05F744A49AEE3868F95482413D
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 19:29:56.1
+1 MAP
+2 LATI 51.655465
+2 LONG -3.190164
+1 NAME 24 Blackwood Rd, Pontllanfraith, Blackwood NP12 2BR, UK
+0 TRLR
