@@ -8,23 +8,30 @@
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
 1 FILE main.ged
-2 _REV 2
-1 DATE 20 AUG 2022
-2 TIME 19:35:42.4
+2 _REV 5
+1 DATE 21 AUG 2022
+2 TIME 10:04:54.5
 0 @I1@ INDI
 1 _UID 361F3FC596F8C740BBE56D2A5E9FA415DB87
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:27:28.8
+2 DATE 21 AUG 2022
+3 TIME 10:02:18.8
 1 SEX M
 1 NAME Michael Adam /S Saunders/ M A
 2 LANG English
-2 TYPE birth
+2 TYPE married
 2 SURN Saunders
 2 GIVN Michael Adam
 2 NICK MAS
 2 SPFX S
 2 NSFX M A
+1 NAME Michael Adam /J Jones/ MA
+2 LANG English
+2 TYPE birth
+2 SURN Jones
+2 GIVN Michael Adam
+2 SPFX J
+2 NSFX MA
 1 FAMC @F1@
 2 PEDI birth
 1 FAMS @F2@
@@ -32,7 +39,9 @@
 2 DATE 04 MAR 1994
 2 PLAC Arrowe Park Hospital, Arrowe Park Rd, Upton, Birkenhead, Wirral CH49 5PE
 1 _EYES Blue
+2 TYPE Eye Colour
 1 _HAIR Brown, (Brunette)
+2 TYPE Hair Colour
 1 NATI British, English
 1 NCHI 0
 1 NMR 0
@@ -45,13 +54,28 @@
 3 CTRY Torfaen
 3 POST NP4 5LL
 2 PHON 01495 760772
+1 _TRAVEL First Trip to Amsterdam
+2 TYPE Holiday
+2 DATE 25 APR 2015
+2 PLAC Rembrandtplein 24, 1017 CV Amsterdam, Netherlands
+3 _LOC @L1@
+1 EVEN
+2 TYPE Acquired Uzi (Cat)
+2 DATE 23 MAY 2022
+2 PLAC 11 Ezel Court, Heol Glanrheidol, Cardiff CF10 5NS, UK
+3 _LOC @L2@
+1 RESI First Place
+2 PLAC 11 Ezel Court, Heol Glanrheidol, Cardiff CF10 5NS, UK
+3 _LOC @L2@
+1 FACT Cyan
+2 TYPE Favourite Colour
 1 ASSO @I3@
 2 RELA Sister
 0 @I2@ INDI
 1 _UID 38BFF18862BB1B4EB2D0B13A6867CE8383B0
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:24:48.6
+2 DATE 21 AUG 2022
+3 TIME 10:02:34.9
 1 SEX F
 1 NAME Devon-Marie /J Jackson/ DM
 2 SURN Jackson
@@ -65,11 +89,23 @@
 2 DATE 26 APR 1995
 2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
 1 _EYES Green, (Blue)
+2 TYPE Eye Colour
 1 _HAIR Blond, (Strawberry Blonde)
+2 TYPE Hair Colour
 1 NATI British, Welsh
 1 RELI Agnostic
 1 NCHI 0
 1 NMR 1
+1 EVEN
+2 TYPE Acquired Uzi (Cat)
+2 DATE 23 MAY 2022
+2 PLAC 11 Ezel Court, Heol Glanrheidol, Cardiff CF10 5NS, UK
+3 _LOC @L2@
+1 RESI First Place
+2 PLAC 11 Ezel Court, Heol Glanrheidol, Cardiff CF10 5NS, UK
+3 _LOC @L2@
+1 FACT Pink
+2 TYPE Favourite Colour
 0 @I3@ INDI
 1 _UID AB1D8BB074EAEB45965AD5E1D2F6782EA5D7
 1 CHAN
@@ -160,13 +196,13 @@
 0 @F2@ FAM
 1 _UID F52ED7B6C5B85546A4A7C082FCE0DEE5F4DA
 1 CHAN
-2 DATE 10 AUG 2022
-3 TIME 19:21:01.7
+2 DATE 21 AUG 2022
+3 TIME 09:35:28.8
 1 HUSB @I1@
 1 WIFE @I2@
 1 _STAT marrnotreg
 1 EVEN
-2 TYPE Anniversary
+2 TYPE Got Together
 2 DATE 26 DEC 2019
 2 PLAC McDonald's, Harlech retail park, Cardiff Rd, Newport NP20 3BA
 0 @I6@ INDI
@@ -212,8 +248,8 @@
 0 @I8@ INDI
 1 _UID DF3991899D30D44B9181C361AFB71E643C88
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:00:03.3
+2 DATE 21 AUG 2022
+3 TIME 10:00:04.2
 1 SEX M
 1 NAME Caprice /J Jackson/ C
 2 SURN Jackson
@@ -226,13 +262,15 @@
 2 DATE 30 OCT 1997
 2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
 1 _EYES Blue
+2 TYPE Eye Colour
 1 _HAIR Blond, (Mousy-brown)
+2 TYPE Hair Colour
 1 NATI British, Welsh
 0 @I9@ INDI
 1 _UID 37B8D72B338B824E9BC83CAEA03B558F8BE0
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:00:11.3
+2 DATE 21 AUG 2022
+3 TIME 10:03:27.3
 1 SEX M
 1 NAME Lee Robert /J Jackson/ LR
 2 SURN Jackson
@@ -246,14 +284,18 @@
 2 DATE 17 APR 1996
 2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
 1 _EYES Brown
+2 TYPE Eye Colour
 1 _HAIR Blond, (Mousy-brown)
+2 TYPE Hair Colour
 1 NATI British, Welsh
 1 RELI Agnostic
+1 FACT Blue
+2 TYPE Favourite Colour
 0 @I10@ INDI
 1 _UID F3D5A56D83572A458C92BE5504BCE3EDE49E
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:00:18.9
+2 DATE 21 AUG 2022
+3 TIME 10:00:42.3
 1 SEX F
 1 NAME Kayla Denise /J Jackson/ KD
 2 SURN Jackson
@@ -266,14 +308,16 @@
 2 DATE 30 JAN 2002
 2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
 1 _EYES Green
+2 TYPE Eye Colour
 1 _HAIR Blond, (Mousy-brown)
+2 TYPE Hair Colour
 1 NATI British, Welsh
 1 RELI Agnostic
 0 @I11@ INDI
 1 _UID A9A67673FD4E2145BCF567C1F2FF7D346437
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:30:04.7
+2 DATE 21 AUG 2022
+3 TIME 10:00:59.3
 1 SEX M
 1 NAME Christopher Lyndon /J Jackson/ CL
 2 SURN Jackson
@@ -286,7 +330,9 @@
 2 DATE 28 MAY 1976
 2 PLAC Royal Devon and Exeter Hospital, Barrack Rd, Exeter EX2 5DW
 1 _EYES Green
+2 TYPE Eye Colour
 1 _HAIR Brown, (Brunette)
+2 TYPE Hair Colour
 1 NATI British, English
 1 NCHI 4
 1 NMR 1
@@ -313,8 +359,8 @@
 0 @I12@ INDI
 1 _UID 0BB937D5F5911B45B4834329C17D283DFC28
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:34:00.4
+2 DATE 21 AUG 2022
+3 TIME 10:01:16.8
 1 SEX F
 1 NAME Donna Francis /W Ward/ DF
 2 LANG English
@@ -334,19 +380,21 @@
 2 DATE 19 MAR 1974
 2 PLAC Celtic Manor, Coldra Wood, The Usk Valley, Chepstow Rd, Newport NP18 1HQ
 1 _HAIR Brown, (Brunette)
+2 TYPE Hair Colour
 1 NATI British, Welsh
 1 NCHI 4
 1 NMR 1
 1 RELI Agnostic
 1 _EYES Brown
+2 TYPE Eye Colour
 1 RESI Family Home
 2 PLAC 24 Blackwood Rd, Pontllanfraith, Blackwood NP12 2BR, UK
 3 _LOC @L5@
 0 @I13@ INDI
 1 _UID 257C5DB0D043504195178D6AF5E0356D6C98
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 18:48:40.4
+2 DATE 21 AUG 2022
+3 TIME 10:04:15.3
 1 SEX F
 1 NAME Amy-Lee /P Poole/ AL
 2 TYPE birth
@@ -365,13 +413,17 @@
 2 DATE 05 AUG 1996
 2 PLAC Royal Gwent Hospital, Cardiff Road, Newport, NP20 2UB
 1 _EYES Blue
+2 TYPE Eye Colour
 1 _HAIR Blond, (Blonde)
+2 TYPE Hair Colour
 1 NATI British, Welsh
 1 NCHI 2
 1 NMR 1
 1 RELI Christianity
 1 CHRA
 2 PLAC Ringland Presbyterian Church of Wales, 5 Beatty Rd, Newport NP19 9GG
+1 FACT Green
+2 TYPE Favourite Colour
 1 ASSO @I9@
 2 RELA Husband
 0 @F5@ FAM
@@ -390,8 +442,8 @@
 0 @I14@ INDI
 1 _UID D424F242FB1C3842AC5A7C0FB1D37E92E240
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 19:25:12.5
+2 DATE 21 AUG 2022
+3 TIME 10:01:49.1
 1 SEX M
 1 NAME Brandon-Lee Christopher /J Jackson/ BL
 2 SURN Jackson
@@ -405,7 +457,9 @@
 2 PLAC Royal Gwent Hospital, Cardiff Rd, Newport NP20 2UB
 3 _LOC @L3@
 1 _EYES Blue
+2 TYPE Eye Colour
 1 _HAIR Blond, (Strawberry Blonde)
+2 TYPE Hair Colour
 1 NATI British, Welsh
 1 CHR
 2 PLAC Ringland Presbyterian Church of Wales, 5 Beatty Rd, Newport NP19 9GG
@@ -421,8 +475,8 @@
 0 @I15@ INDI
 1 _UID 867D3EF63EC35A43B208ED99BDF54DF30770
 1 CHAN
-2 DATE 20 AUG 2022
-3 TIME 18:56:56.3
+2 DATE 21 AUG 2022
+3 TIME 10:03:10.1
 1 SEX M
 1 NAME Jake-Lee /Jackson/
 2 SURN Jackson
@@ -434,8 +488,12 @@
 2 PLAC Royal Gwent Hospital, Cardiff Rd, Newport NP20 2UB
 3 _LOC @L3@
 1 _EYES Brown
+2 TYPE Eye Colour
 1 _HAIR Blond, (Blonde)
+2 TYPE Hair Colour
 1 NATI British, Welsh
+1 FACT Blue
+2 TYPE Favourite Colour
 0 @L4@ _LOC
 1 _UID 7A96706911610E4EBDE773FA3C45ED76ACFC
 1 CHAN
@@ -454,4 +512,22 @@
 2 LATI 51.655465
 2 LONG -3.190164
 1 NAME 24 Blackwood Rd, Pontllanfraith, Blackwood NP12 2BR, UK
+0 @L1@ _LOC
+1 _UID 497B7C3B60C2EC46868DCEC53DD226F6A074
+1 CHAN
+2 DATE 20 AUG 2022
+3 TIME 20:17:37.1
+1 MAP
+2 LATI 52.365654
+2 LONG 4.896365
+1 NAME Rembrandtplein 24, 1017 CV Amsterdam, Netherlands
+0 @L2@ _LOC
+1 _UID 19D7A4C6A2087C47AAC53B924C1A808D7670
+1 CHAN
+2 DATE 21 AUG 2022
+3 TIME 09:33:06.5
+1 MAP
+2 LATI 51.467914
+2 LONG -3.172748
+1 NAME 11 Ezel Court, Heol Glanrheidol, Cardiff CF10 5NS, UK
 0 TRLR
