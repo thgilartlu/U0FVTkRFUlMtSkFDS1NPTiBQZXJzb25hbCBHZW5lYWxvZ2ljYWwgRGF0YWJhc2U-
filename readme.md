@@ -3,6 +3,10 @@
 
 <p align="center" title="SAUNDERS-JACKSON Personal Genealogy"><img src="https://macedonpubliclibrary.files.wordpress.com/2020/03/word-cloud-3331301.png" alt="SAUNDERS-JACKSON Personal Genealogy"/></p>
 
+## Monologue
+
+<p align="center">Why do we feel compelled to trace our roots? Those names in the family tree are just that, names. Yet the kinship we feel towards them is powerful. Does the fact that we are rooted in history, make us feel more secure in the present?</p>
+
 ## 👷 Built with
 
 - [GEDKeeper](https://github.com/serg-norseman/gedkeeper "GEDKeeper"): as Primary genealogical application. Full GEDCOM 5.5.1 Standard Support.
